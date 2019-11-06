@@ -4,4 +4,4 @@
 <p><img src="https://wikidocs.net/images/page/24958/perceptrin1_final.PNG"></p>
 
 &nbsp;위 그림에서 x는 입력값, W는 가중치(Weight), y는 출력값을 의미한다. 퍼셉트론 알고리즘은 각 입력값과 가중치를 곱해서 이잉 앗살라말라이쿰
-<p><img src="https://slownews.kr/wp-content/uploads/2019/06/i_007-1.jpg"></p>
+<p><img src="https://i.ytimg.com/vi/gQeUotKKR1Y/maxresdefault.jpg"></p>
